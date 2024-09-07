@@ -50,4 +50,6 @@ MONGO_URI=your-mongoDB-atlas-connection-string
 PORT=5000
 JWT_SECRET=anyRandomString
 
- 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
